@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:paddingBottom="4dp">
+    <ImageView
+        android:id="@+id/fotinhoVeiculoImageView"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:padding="5dp" />
+    <TextView
+        android:id="@+id/modeloVeiculoTextView"
+        android:layout_toRightOf="@id/fotinhoVeiculoImageView"
+        android:text="--modelo--"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dp" />
+    <TextView
+        android:id="@+id/detalhesVeiculoTextView"
+        android:layout_toRightOf="@id/fotinhoVeiculoImageView"
+        android:layout_below="@id/modeloVeiculoTextView"
+        android:text="--speciality--"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dp" />
+</RelativeLayout><!-- From: file:/C:/Users/Pafume/Desktop/Facul/VeiculoP3-master/app/src/main/res/layout/linha_veiculo.xml -->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Pafume\Desktop\VeiculoP3-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Pafume\Desktop\VeiculoP3-master\app\build\intermediates\pre-dexed\debug\classes-101a9978c62b9059dcb62761e7be1b3671c9c35f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pafume\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Pafume\Desktop\VeiculoP3-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-3b8a94c7162f278e9ddeaf79a8fa296048c1a44b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pafume\Desktop\VeiculoP3-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Pafume\Desktop\VeiculoP3-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-d2aa757a6041c3615fb7e12f61ed724b14b9d187.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pafume\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Pafume\Desktop\VeiculoP3-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0-837e0b88e5508a288444226cef56dc21ac8a96ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pafume\Desktop\VeiculoP3-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Pafume\Desktop\VeiculoP3-master\app\build\intermediates\pre-dexed\debug\classes-0690700c6150c945f6d4c1e57836ffc35d006cb6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pafume\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Pafume\Desktop\VeiculoP3-master\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-cf990819034415046fc1775cca73b0dcfca29a51.jar" />
+    </item>
+
+</items>

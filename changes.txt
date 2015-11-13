@@ -1,0 +1,5 @@
+nome = modelo *
+preco = kmlivre
+estilo = ano => cidade *
+cor = marca *
+pais = categoria
